@@ -1,0 +1,8 @@
+package com.junhua
+
+object Test1 {
+
+  def main(args: Array[String]): Unit = {
+    println("haha")
+  }
+}
